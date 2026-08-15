@@ -1,0 +1,20 @@
+{
+  "n_disks": 1,
+  "turns": [
+    {
+      "player": "A",
+      "action": "lift",
+      "pole": 1
+    },
+    {
+      "player": "B",
+      "action": "lift",
+      "pole": 1
+    },
+    {
+      "player": "A",
+      "action": "place",
+      "pole": 3
+    }
+  ]
+}
